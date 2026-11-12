@@ -13,7 +13,7 @@ Senior software engineer building AI developer tooling for the enterprise. 20 ye
 | Repo | What it is |
 |---|---|
 | [claude-code-pipeline](https://github.com/thomas-sodon/claude-code-pipeline) | Human-steered Claude Code pipeline: plan, implement test-first, review until clean, open the PR, monitor CI |
-| [maestro-review](https://github.com/thomas-sodon/maestro-review) | AI pull-request reviewer that runs as a CI check, built on the Claude Agent SDK |
+| [answerable-ai-review](https://github.com/thomas-sodon/answerable-ai-review) | AI pull-request reviewer that blocks the merge until every finding is fixed, disputed or tracked, built on the Claude Agent SDK |
 | [aws-sam-solana-bot](https://github.com/thomas-sodon/aws-sam-solana-bot) | Event-driven AWS SAM webhook processing with a resilient multi-provider RPC client (Solana) |
 | [maestro-agent](https://github.com/thomas-sodon/maestro-agent) | Archived R&D: a human-approved, self-evolving agent loop on the Claude Agent SDK |
 
