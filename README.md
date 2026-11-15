@@ -5,6 +5,7 @@ Senior software engineer building AI developer tooling for the enterprise. 20 ye
 ## What I build
 
 - **AI developer tooling.** At Northwestern Mutual I help build the company's custom GitHub Copilot harness and built a general-purpose merge-request review agent on the Copilot SDK. Here on GitHub: Claude Agent SDK and Claude Code tooling.
+- **Payment microservices.** TypeScript and Java microservices on Kubernetes, backed by Postgres and DynamoDB on AWS, for transaction history and post-payment processing on Northwestern Mutual's Enterprise Payment Network (EPN).
 - **AWS data and serverless.** AWS Data Mesh with Glue, Athena and Terraform, Lambda and SAM event pipelines, resilient API clients.
 - **Test and verification systems.** Twelve years building protocol-testing tools at Gaming Laboratories International, then test automation at iCIMS.
 
